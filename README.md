@@ -1,2 +1,2 @@
 # multiple-music-classifier-using-basic-support-vector-machine
-this is basic music classifier without using any libraries which classifies musics in various genres based on support vector machine on data provided by training code
+this is a basic music classifier which uses simple support vector machine techniqe to make a boundary of different genre of music and catagorize the given music as one of the given cataagory. this is just a sample code for betterresult please add more training data. this process may be costly for very big data set but veryaccurate to make a decision boundary and classification.
